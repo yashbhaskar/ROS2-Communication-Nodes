@@ -18,3 +18,4 @@ This project demonstrates a ROS 2 setup with three interconnected nodes designed
 - **Role**: Subscribes to the topic from Node 2 and processes the received data.
 - **Function**: Receives and handles messages from Node 2.
 - **Applications**: Final data handling, decision making, further processing such as visualizations or logging.
+![Screenshot 2024-08-05 172608](https://github.com/user-attachments/assets/7f32e255-3bfc-4896-810e-9045450999d2)
